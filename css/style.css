@@ -1,0 +1,69 @@
+
+.hero{
+    background-color: rgb(78, 77, 77);
+    height: 460px;
+    width: 300px;
+    margin-left: 20px;
+    margin: 0 auto;
+    margin-top: 200px;
+
+}
+.full{
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
+
+.head{
+   
+    height: 100px;
+    width: 300px;
+    background-color:black ;
+}
+
+.menu{
+    border: 2px solid rgb(128, 120, 120);
+    background-color: rgb(123, 126, 159);
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 7px;
+    border: none;
+    
+}
+.menu p{
+    text-align: center;
+    padding: 8px;
+    color: aliceblue;
+}
+.black{
+    border: 2px solid rgb(128, 120, 120);
+    background-color:black;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 7px;
+    border: none;
+}
+.black p{
+    text-align: center;
+    padding: 8px;
+    color: aliceblue;
+
+}
+.yello{
+    border: 2px solid rgb(128, 120, 120);
+    background-color: rgb(243, 203, 25);
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 7px;
+    border: none;
+}
+.yello p{
+    text-align: center;
+    padding: 8px;
+    color: aliceblue;
+}
